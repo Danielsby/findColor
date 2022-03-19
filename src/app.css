@@ -1,0 +1,13 @@
+.app {
+  padding: 2rem;
+}
+
+.picker {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 400px;
+}
